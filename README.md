@@ -1,6 +1,6 @@
 # Word Guessing Game in Flutter
 
-This project should introduce in some important key conecpts of flutter.
+This project should introduce in some important key concepts of flutter and introduces into languages.
 
 ![Screenshot](screenshot.png)
 
