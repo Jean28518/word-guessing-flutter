@@ -1,0 +1,193 @@
+{
+    "name": "French",
+    "keyboard": [
+        [
+            "A",
+            "Z",
+            "E",
+            "R",
+            "T",
+            "Y",
+            "U",
+            "I",
+            "O",
+            "P"
+        ],
+        [
+            "Q",
+            "S",
+            "D",
+            "F",
+            "G",
+            "H",
+            "J",
+            "K",
+            "L",
+            "M"
+        ],
+        [
+            "W",
+            "X",
+            "C",
+            "V",
+            "B",
+            "N"
+        ],
+        [
+            "Á",
+            "É",
+            "Í",
+            "Ó",
+            "Ú",
+            "Ñ",
+            "Ü",
+            "Ç",
+            "À",
+            "È"
+        ]
+    ],
+    "list": [
+        {
+            "word": "Bonjour",
+            "hint": "Way to say hello",
+            "category": "Common Phrases"
+        },
+        {
+            "word": "Merci",
+            "hint": "Way to say thank you",
+            "category": "Common Phrases"
+        },
+        {
+            "word": "Oui",
+            "hint": "Way to say yes",
+            "category": "Common Phrases"
+        },
+        {
+            "word": "Non",
+            "hint": "Way to say no",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Au revoir",
+            "hint": "Way to say goodbye",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "S'il vous plaît",
+            "hint": "Way to say please",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Excusez-moi",
+            "hint": "Way to say excuse me",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Pardon",
+            "hint": "Another way to say excuse me",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Comment allez-vous ?",
+            "hint": "Formal way to say how are you?",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Ça va",
+            "hint": "Informal way to say I'm good",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Enchanté",
+            "hint": "Nice to meet you",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Je m'appelle",
+            "hint": "My name is",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Parlez-vous anglais ?",
+            "hint": "Do you speak English?",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Je ne comprends pas",
+            "hint": "I don't understand",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Pouvez-vous répéter ?",
+            "hint": "Can you repeat?",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Combien ça coûte ?",
+            "hint": "How much does this cost?",
+            "category": "Useful Phrases"
+            },
+            {
+            "word": "Je voudrais",
+            "hint": "I would like",
+            "category": "Useful Phrases"
+            },
+            {
+            "word": "Où se trouvent les toilettes ?",
+            "hint": "Where is the bathroom?",
+            "category": "Useful Phrases"
+            },
+            {
+            "word": "Merci beaucoup",
+            "hint": "Thank you very much",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Pas de problème",
+            "hint": "No problem",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "De rien",
+            "hint": "You're welcome",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Bonne journée",
+            "hint": "Have a good day",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Bonsoir",
+            "hint": "Good evening",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Bon weekend",
+            "hint": "Have a good weekend",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Au revoir",
+            "hint": "Goodbye (informal)",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Salut",
+            "hint": "Hi (informal)",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "À bientôt",
+            "hint": "See you soon",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Merci pour votre aide",
+            "hint": "Thank you for your help",
+            "category": "Common Phrases"
+            }
+
+
+    ]
+}

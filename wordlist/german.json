@@ -1,0 +1,177 @@
+{
+    "name": "German",
+    "keyboard": [
+        [
+            "Q",
+            "W",
+            "E",
+            "R",
+            "T",
+            "Z",
+            "U",
+            "I",
+            "O",
+            "P"
+        ],
+        [
+            "A",
+            "S",
+            "D",
+            "F",
+            "G",
+            "H",
+            "J",
+            "K",
+            "L"
+        ],
+        [
+            "Y",
+            "X",
+            "C",
+            "V",
+            "B",
+            "N",
+            "M"
+        ],
+        [
+            "Ä",
+            "Ö",
+            "Ü",
+            "ß"
+        ]
+    ],
+    "list": [
+        {
+            "word": "Hallo",
+            "hint": "Way to say hello",
+            "category": "Common Phrases"
+        },
+        {
+            "word": "Danke",
+            "hint": "Way to say thank you",
+            "category": "Common Phrases"
+        },
+        {
+            "word": "Ja",
+            "hint": "Way to say yes",
+            "category": "Common Phrases"
+        },
+        {
+            "word": "Nein",
+            "hint": "Way to say no",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Auf Wiedersehen",
+            "hint": "Way to say goodbye",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Bitte",
+            "hint": "Way to say please",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Entschuldigung",
+            "hint": "Way to say excuse me",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Wie geht es Ihnen?",
+            "hint": "Formal way to say how are you?",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Mir geht es gut",
+            "hint": "Informal way to say I'm good",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Schön Sie kennenzulernen",
+            "hint": "Nice to meet you",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Ich heiße",
+            "hint": "My name is",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Ich kann Sie nicht verstehen",
+            "hint": "I don't understand",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Können Sie das bitte wiederholen?",
+            "hint": "Can you repeat?",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Wie viel kostet das?",
+            "hint": "How much does this cost?",
+            "category": "Useful Phrases"
+            },
+            {
+            "word": "Ich möchte",
+            "hint": "I would like",
+            "category": "Useful Phrases"
+            },
+            {
+            "word": "Wo ist die Toilette?",
+            "hint": "Where is the bathroom?",
+            "category": "Useful Phrases"
+            },
+            {
+            "word": "Vielen Dank",
+            "hint": "Thank you very much",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Kein Problem",
+            "hint": "No problem",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Bitte schön",
+            "hint": "You're welcome",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Einen schönen Tag noch",
+            "hint": "Have a good day",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Guten Abend",
+            "hint": "Good evening",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Ein schönes Wochenende",
+            "hint": "Have a good weekend",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Tschüss",
+            "hint": "Goodbye (informal)",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Hi",
+            "hint": "Hi (informal)",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Bis bald",
+            "hint": "See you soon",
+            "category": "Common Phrases"
+            },
+            {
+            "word": "Vielen Dank für Ihre Hilfe",
+            "hint": "Thank you for your help",
+            "category": "Common Phrases"
+            }
+
+
+    ]
+}
